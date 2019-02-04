@@ -12,19 +12,19 @@ body, .app {
 
 /* main page */
 
-.list-books-title {
+.main-page-title {
   padding: 10px 0;
   background: #2e7c31;
   text-align: center;
 }
 
-.list-books-title h1 {
+.main-page-title h1 {
   font-weight: 400;
   margin: 0;
   color: white;
 }
 
-.list-books-content {
+.main-page-content {
   padding: 0 0 80px;
   flex: 1;
 }
@@ -53,7 +53,7 @@ body, .app {
   bottom: 25px;
 }
 
-.open-search button {
+.open-search a {
   display: block;
   width: 50px;
   height: 50px;
